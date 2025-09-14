@@ -1,23 +1,19 @@
-![xoL](http://xzzulz.github.io/xoL/img/xol01.svg)
-
-# xoL
-
 ## xoL visual programming language
 
 xoL is a visual programming language. Currently just a concept design, as it has not been implemented. It is an attempt to create a graphical language, that can be as good or better than text based languages.
 
 ## Project status
 
-Concept design for iteration 9 was complete. [Language presentation](http://xzzulz.github.io/xoL/)
+Concept design for iteration 9 was complete. [Language presentation]([https://lignx.github.io/xoL](https://lignx.github.io/xoL)
 
-Prototype first was created based on iteration 9. Available here: [prototype first](https://github.com/xzzulz/xra9)
+Prototype first was created based on iteration 9. Available here: [prototype first](https://lignx.github.io/xra9)
 
 Fundamental design improvements were made, into revision 10. Prototype second development just started, based on xol revision 10. The specs will be published gradually, for patreon supporters.
 
 ## webpage
 
-Project site: https://xzzul.co.uk
-This repository contains a description of the project, in the form of a webpage: http://xzzulz.github.io/xoL/
+Project site: https://xiggfi.web.app
+This repository contains a description of the project, in the form of a webpage
 
 ## Introduction
 
