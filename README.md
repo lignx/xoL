@@ -1,3 +1,9 @@
+![xoL](https://lignx.github.io/xoL/img/xol01.svg)
+
+(Note: This is an old page. Project has evolved somewhere else.)
+
+# xoL
+
 ## xoL visual programming language
 
 xoL is a visual programming language. Currently just a concept design, as it has not been implemented. It is an attempt to create a graphical language, that can be as good or better than text based languages.
