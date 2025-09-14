@@ -1,6 +1,6 @@
 ![xoL](https://lignx.github.io/xoL/img/xol01.svg)
 
-(Note: This is an old page. Project has evolved somewhere else.)
+(Note: This is an old page. Project evolved a little bit. At xiggfi page.)
 
 # xoL
 
