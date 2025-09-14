@@ -1,4 +1,4 @@
-![xoL](http://xzzulz.github.io/xoL/img/xol01.svg)
+![xoL](https://lignx.github.io/xoL/img/xol01.svg)
 
 # xoL
 
@@ -8,9 +8,9 @@ xoL is a visual programming language. Currently just a concept design, as it has
 
 ## Project status
 
-Concept design for iteration 9 was complete. [Language presentation](http://xzzulz.github.io/xoL/)
+Concept design for iteration 9 was complete. [Language presentation]([https://lignx.github.io/xoL](https://lignx.github.io/xoL)
 
-Prototype first was created based on iteration 9. Available here: [prototype first](https://github.com/xzzulz/xra9)
+Prototype first was created based on iteration 9. Available here: [prototype first](https://lignx.github.io/xra9)
 
 Fundamental design improvements were made, into revision 10. Prototype second development just started, based on xol revision 10. The specs will be published gradually, for patreon supporters.
 
