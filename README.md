@@ -16,8 +16,8 @@ Fundamental design improvements were made, into revision 10. Prototype second de
 
 ## webpage
 
-Project site: https://xzzul.co.uk
-This repository contains a description of the project, in the form of a webpage: http://xzzulz.github.io/xoL/
+Project site: https://xiggfi.web.app
+This repository contains a description of the project, in the form of a webpage
 
 ## Introduction
 
